@@ -1,16 +1,11 @@
 # Evidencia Final
-</p>
-<p>
-![¿Que-es-un-framework-en-programacion-scaled-1200x675](https://user-images.githubusercontent.com/126931994/227653357-df11fa18-cdaf-40f7-8203-c3a68e79d244.jpg)
-</p>
-<p>
 Evidencia TecMilenio
 </p>
 <p>
-• Instalación y configuración.
+• Instalación y configuración: Descargar todos los archivos de codigo para abrirlos en NetBeans y despues correr la aplicacion ahi
 </p>
 <p>
-• Uso del programa.
+• Uso del programa: Actualmente solo se puede utilizar dentro de NetBeans
 </p>
 <p>
 • Créditos: Gaston Sanchez
